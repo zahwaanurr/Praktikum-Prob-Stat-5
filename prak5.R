@@ -1,0 +1,11 @@
+zahwa=read.delim("clipboard")
+view(zahwa)
+str(zahwa)
+mean(zahwa$Volume)
+t.test(zahwaa$Volume, mu = 10)
+
+zahwa=read.delim("clipboard")
+view(zahwa)
+str(zahwa)
+mean(zahwa$Volume)
+t.test(zahwaa$Volume, mu = 10)
